@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm JOHNNY BIT</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+
 <img align="center" alt="coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">Hi 👋, I'm JOHNNY BIT</h1>
 
-- 🌱 I’m currently learning **Deeplearning**
 
 - 💬 Ask me about **python, Mysql, Machine learning , Power BI, Advance Excel**
 
-- 📫 How to reach me **johnnybitma94@gmail.com**
+- 📫 How to reach me **johnnybit9456ma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
